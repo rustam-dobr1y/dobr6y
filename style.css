@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: border-box;
+}
+body{
+    background-color: black;
+}
+.h1{
+    text-align: center;
+    color: #DC99F3;
+}
+
+.bola1{
+    width: 1400px;
+    height: 289px;
+    border: 20px solid #DC99F3;
+    border-radius: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 189px auto;
+
+}
+.nevara{
+    width: 170px;
+    height: 167px;
+    background-color: white;
+    margin-left: 69px;
+    border-radius: 20px;
+}
+.nevara1{
+    width: 170px;
+    height: 167px;
+    background-color: white;
+    margin-left: 69px;
+    border-radius: 20px;
+}
+.bola2{
+    width: 1400px;
+    height: 289px;
+    border: 20px solid #DC99F3;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 189px auto;
+}
+.bola3{
+    width: 1400px;
+    height: 289px;
+    border: 20px solid #DC99F3;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 189px auto;
+}
+.bola4{
+    width: 1400px;
+    height: 289px;
+    border: 20px solid #DC99F3;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 189px auto;
+}
+.bola5{
+    width: 1400px;
+    height: 289px;
+    border: 20px solid #DC99F3;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 189px auto;
+}
+.bola6{
+    width: 1400px;
+    height: 289px;
+    border: 20px solid #DC99F3;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 189px auto;
+}
